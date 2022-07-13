@@ -1,0 +1,11 @@
+{
+  "name": "persagy-picker-date",
+  "version": "1.0.0",
+  "description": "日期组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evan-Pei",
+  "license": "ISC"
+}
